@@ -40,7 +40,7 @@ Follow these standard actions to run the completed program on a clean machine:
 5. Access the app instantly via your new Desktop or Start Menu shortcuts.
 (I swear this isn't a virus just check the source code)
 
-### For Developers (Local Source Code Build)
+### Local Source Code Build (for the nerds)
 Follow these sequential actions to run a local source configuration or compile a custom binary modification:
 1. Ensure **Node.js (LTS version)** is properly installed on your machine.
 2. Initialize path permissions inside your terminal instance:
