@@ -63,3 +63,6 @@ Follow these sequential actions to run a local source configuration or compile a
    ```powershell
    npm run dist
    ```
+   ---
+
+   LINUX, MAC AND BSD SUPPORT COMING SOON!
