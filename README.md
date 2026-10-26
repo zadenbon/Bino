@@ -1,10 +1,10 @@
 # Bino Music Player
 
-A sleek, modern desktop music application featuring fluid translucent themes, dynamic palette shifting based on active album artwork, and integrated scrolling lyrics. Built on top of the Electron framework for robust, native cross-platform performance.
+A sleek, modern desktop music application built on top of Riff featuring fluid translucent themes, dynamic palette shifting based on active album artwork, and integrated scrolling lyrics. Built on top of the Electron framework for robust, native cross-platform performance. Bino features better performance, is more customizable and has more freedom with faster loading than Riff.
 
 ---
 
-## 🚀 Key App Specifications
+## App Specifications
 
 | Attribute | Details |
 | :--- | :--- |
@@ -23,8 +23,7 @@ A sleek, modern desktop music application featuring fluid translucent themes, dy
 
 <img width="2560" height="1440" alt="{D5793480-7F8B-4E9B-B7C4-E9755681FD5F}" src="https://github.com/user-attachments/assets/b9dd11d3-9429-4993-84de-1fba25f260f9" />
 
-
-
+<img width="2560" height="1440" alt="{D9687724-B05F-4163-B351-7C1E3C4C63F5}" src="https://github.com/user-attachments/assets/1fa240f2-0b65-4c1b-91dc-439705d9334d" />
 
 ---
 
@@ -61,5 +60,5 @@ Follow these sequential actions to run a local source configuration or compile a
    ```powershell
    npm run dist
    ```
-   
+---
 LINUX, MAC AND BSD SUPPORT COMING SOON!
