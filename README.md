@@ -1,6 +1,6 @@
 # Bino Music Player
 
-A sleek, modern desktop music application featuring fluid translucent themes, dynamic palette shifting based on active album artwork, and integrated scrolling lyrics. Built on top of the Electron framework for robust, native cross-platform performance.
+A sleek, modern desktop music application built on top of Riff music player featuring fluid translucent themes, dynamic palette shifting based on active album artwork, and integrated scrolling lyrics. Built on top of the Electron framework for robust, native cross-platform performance. This fork offers better performance, more customization, faster loading times and more settings.
 
 ---
 
