@@ -4,7 +4,7 @@ A sleek, modern desktop music application featuring fluid translucent themes, dy
 
 ---
 
-## 🚀 Key App Specifications
+## App Specifications
 
 | Attribute | Details |
 | :--- | :--- |
@@ -15,17 +15,15 @@ A sleek, modern desktop music application featuring fluid translucent themes, dy
 
 ---
 
-## 📸 Interface Showcases
+## Showcases
+
+<img width="2560" height="1440" alt="{FC6C9147-4C62-45DE-AEB3-5BAB61387653}" src="https://github.com/user-attachments/assets/e49c2097-ba35-463c-af35-19da442c6a13" />
+
+<img width="2560" height="1440" alt="{CAEA05DC-BAE4-44F6-93E6-72FDE26A8FC3}" src="https://github.com/user-attachments/assets/8e530f72-17df-42a7-9eeb-85d6f40b1426" />
+
 
 Here is a look at the application interface variants, dynamic color processing engine, and playlist controls.
 
-| Interface View | Visual Demonstration |
-| :--- | :--- |
-| **Primary Theme View** | ![Main Layout View](https://placeholder.com) |
-| **Dynamic Palette Swapping** | ![Dynamic Theme View](https://placeholder.com) |
-| **Playlist View ("H")** | ![Playlist Control View](https://placeholder.com) |
-
-> 💡 **Tip for your images:** For the cleanest look, create an `assets/` folder inside your repository, save your app screenshots there (e.g., `assets/main.png`), and update the markdown image paths to match (e.g., `![](./assets/main.png)`).
 
 ---
 
