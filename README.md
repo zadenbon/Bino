@@ -1,3 +1,7 @@
+<img width="1900" height="537" alt="{2541265D-6151-4245-9DC2-CDE01D58A71D}" src="https://github.com/user-attachments/assets/781e0b8b-0917-41c7-9abb-fb0891894490" />
+
+---
+
 # Bino Music Player
 
 A sleek, modern desktop music application built on top of Riff featuring fluid translucent themes, dynamic palette shifting based on active album artwork, and integrated scrolling lyrics. Built on top of the Electron framework for robust, native cross-platform performance. Bino features better performance, is more customizable and has more freedom with faster loading than Riff.
