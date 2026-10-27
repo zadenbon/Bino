@@ -36,6 +36,7 @@ Follow these standard actions to run the completed program on a clean machine:
 3. Launch the downloaded installer wizard.
 4. If a Windows SmartScreen warning pops up, choose **"More Info"** and select **"Run anyway"**.
 5. Access the app instantly via your new Desktop or Start Menu shortcuts.
+Why a SmartScreen warning pops up: Because this is an independent open-source project and the binary isn't digitally signed with a costly Microsoft certificate, Windows may flag it initially
 
 ### Local Source Code Build (for the nerds)
 Follow these sequential actions to run a local source configuration or compile a custom binary modification:
